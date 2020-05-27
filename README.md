@@ -8,8 +8,4 @@ Prerequisits are;
 - Have a TTN node working (we have one at hackerspace as an example)
 - Have a working gateway for home testing (we use the Hackerspace TTN gateway as an example)
 - Have a LoRaCLOUD account. You can do this via [this](https://www.loracloud.com) link. 
-  More explanations can be found in [this workshop](
-
-The repository with the code used for this workshop can be found via [this](https://github.com/things4u/ESP-1ch-Gateway) link
-
-
+ 
